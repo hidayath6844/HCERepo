@@ -1,0 +1,9 @@
+<resources>
+	<string name="app_name">HCEApp</string>
+
+	<string name="hello_world">Hello world!</string>
+	<string name="action_settings">Settings</string>
+	<string name="service_name">CardEmulation Sample</string>
+	<string name="title_activity_card_reader">CardReaderActivity</string>
+	<string name="card_title">Card Title</string>
+</resources>
